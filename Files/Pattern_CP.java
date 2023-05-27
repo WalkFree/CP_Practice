@@ -26,6 +26,8 @@ public class Pattern_CP {
     }
 
 
+
+
     public static void main(String[] args) {
        binaryPattern1(5);
     }
